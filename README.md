@@ -1,0 +1,1 @@
+- In das Verzeichnis ~/.config/nvim clonen
